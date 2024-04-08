@@ -1,0 +1,1 @@
+alert("you should alert when you learning javaScript")
